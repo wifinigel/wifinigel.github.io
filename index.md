@@ -1,8 +1,10 @@
 # WifiNigel's GitHub Page
 
-**Welcome to my github projects page. It provides an overview of my github projects**
+**Welcome to my github projects page.**
 
-- [wlan-client-capability](https://github.com/wifinigel/wlan-client-capability) : a project to determine WLAN client capabilities from a captured association frame. This is meant to be used with the [WLANPi device](https://wlanpi.com)
+## Projects
+
+- [wlan-client-capability](https://github.com/wifinigel/wlan-client-capability) : a project to determine WLAN client capabilities from a captured association frame. This is meant to be used with the [WLANPi device](https://wlanpi.com). It will listen for an association frame and then analyze the reported capabilities of the client
 
 
 ## About Me
