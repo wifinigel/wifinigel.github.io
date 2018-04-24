@@ -9,4 +9,4 @@
 
 ## About Me
 
-Find out more about my Wi-Fi related stuff at: [http://wifinigel.com](http://wifinigel.com)
+Find out more about my Wi-Fi related stuff at: [http://wifinigel.com](http://wifinigel.com). You can find me on twitter ast: [twitter.com/wifinigel](https://twitter.com/wifinigel)
